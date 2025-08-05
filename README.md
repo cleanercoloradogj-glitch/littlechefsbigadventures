@@ -1,23 +1,3 @@
-
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <meta name="description" content="Kid-friendly recipes and magical mealtime adventures for picky eaters and creative families." />
-  <title>Little Chefs, Big Adventures</title>
-  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&display=swap" rel="stylesheet">
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Fredoka', sans-serif;
-      background-color: #fff9f0;
-      color: #333;
-    }
-
-    header {
-      background: linear-gradient(to right, #ffa07a, #ffd9c0);
-      padding: 2rem;
-      text-align: center;
       color: #fff;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     }
